@@ -1,0 +1,248 @@
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.AcademicYear.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.addLacturer.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.addSecretary.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.AddSpecialDateExtraExam.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.addStudent.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.addTutor.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.AssignmentStudentToTest.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.ConfirmSpecialExam.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.DepartmentHeadMenu.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.DeterminingCourseDetails.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.DisplayAmountHoursLecturer.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.DisplayAmountHoursSecrt_Depar.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.DisplayAmountHoursTutors.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.DisplayCoursesBySemester.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.Display_Student_Grades.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.InsertStudentGrades.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.LecturerMenu.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.LecturerPreferences.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.Lecturers_Appeals.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.Login.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.ManagementCourses.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.OpenCourse.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.Properties.Resources.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.Readmess.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.RequestExtraTest.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.Requests_Check.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.Requests_Lecturers2.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.Requests_Students.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.Requests_Tutors.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.Requests_Validation.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.Schedule_Changes___Student.Changes_Available.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.Schedule_Changes___Student.Student_Requests.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.Schedule_Changes___Tutor.Add_Excercise.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.Schedule_Changes___Tutor.Cancell_Excercise.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.Schedule_Changes___Tutor.Tutor_Requests.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.ChangeCourseDetails.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.ScheduleChanges_Secretary.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.SecretaryMenu.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.SemesterMinimalAverage.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.SetDateForTest.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.StudentAverage.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.StudentMenu.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.StudentsList_L_T.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.Students_List_S_DM.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.studentToCourse.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.TutorMenu.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.TutorPreferences.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.Update_Course.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.Update_User_Info.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.viewShL.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.viewShSec.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.viewShStu.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.viewShT.resources
+C:\Users\idanl\VisualProjectCsharp\Schedule\Schedule\obj\Debug\Schedule.csproj.GenerateResource.Cache
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\bin\Debug\Schedule.exe.config
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.csprojResolveAssemblyReference.cache
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.AcademicYear.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.addLacturer.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.addSecretary.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.AddSpecialDateExtraExam.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.addStudent.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.addTutor.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.AssignmentStudentToTest.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.ConfirmSpecialExam.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.DepartmentHeadMenu.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.DeterminingCourseDetails.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.DisplayAmountHoursLecturer.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.DisplayAmountHoursSecrt_Depar.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.DisplayAmountHoursTutors.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.DisplayCoursesBySemester.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.Display_Student_Grades.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.InsertStudentGrades.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.LecturerMenu.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.LecturerPreferences.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.Lecturers_Appeals.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.Login.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.ManagementCourses.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.OpenCourse.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.Properties.Resources.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.Readmess.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.RequestExtraTest.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.Requests_Check.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.Requests_Lecturers2.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.Requests_Students.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.Requests_Tutors.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.Requests_Validation.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.Schedule_Changes___Student.Changes_Available.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.Schedule_Changes___Student.Student_Requests.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.Schedule_Changes___Tutor.Add_Excercise.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.Schedule_Changes___Tutor.Cancell_Excercise.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.Schedule_Changes___Tutor.Tutor_Requests.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.ChangeCourseDetails.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.ScheduleChanges_Secretary.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.SecretaryMenu.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.SemesterMinimalAverage.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.SetDateForTest.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.StudentAverage.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.StudentMenu.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.StudentsList_L_T.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.Students_List_S_DM.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.studentToCourse.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.TutorMenu.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.TutorPreferences.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.Update_Course.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.Update_User_Info.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.viewShL.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.viewShSec.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.viewShStu.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.viewShT.resources
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.csproj.GenerateResource.Cache
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\bin\Debug\Database.mdf
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\bin\Debug\Database_log.ldf
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\bin\Debug\Schedule.exe
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\bin\Debug\Schedule.pdb
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\bin\Debug\System.Net.Http.dll
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\bin\Debug\System.Net.Http.xml
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.exe
+C:\Users\orel\Desktop\New folder (3)\Schedule\Schedule\obj\Debug\Schedule.pdb
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\bin\Debug\Schedule.exe.config
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.exe
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.pdb
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\bin\Debug\Database.mdf
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\bin\Debug\Database_log.ldf
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\bin\Debug\Schedule.exe
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\bin\Debug\Schedule.pdb
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\bin\Debug\System.Net.Http.dll
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\bin\Debug\System.Net.Http.xml
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.csprojResolveAssemblyReference.cache
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.AcademicYear.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.addLacturer.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.addSecretary.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.AddSpecialDateExtraExam.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.addStudent.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.addTutor.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.AssignmentStudentToTest.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.ConfirmSpecialExam.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.DepartmentHeadMenu.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.DeterminingCourseDetails.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.DisplayAmountHoursLecturer.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.DisplayAmountHoursSecrt_Depar.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.DisplayAmountHoursTutors.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.DisplayCoursesBySemester.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.Display_Student_Grades.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.InsertStudentGrades.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.LecturerMenu.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.LecturerPreferences.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.Lecturers_Appeals.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.Login.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.ManagementCourses.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.OpenCourse.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.Properties.Resources.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.Readmess.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.RequestExtraTest.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.Requests_Check.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.Requests_Lecturers2.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.Requests_Students.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.Requests_Tutors.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.Requests_Validation.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.Schedule_Changes___Student.Changes_Available.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.Schedule_Changes___Student.Student_Requests.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.Schedule_Changes___Tutor.Add_Excercise.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.Schedule_Changes___Tutor.Cancell_Excercise.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.Schedule_Changes___Tutor.Tutor_Requests.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.ChangeCourseDetails.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.ScheduleChanges_Secretary.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.SecretaryMenu.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.SemesterMinimalAverage.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.SetDateForTest.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.StudentAverage.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.StudentMenu.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.StudentsList_L_T.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.Students_List_S_DM.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.studentToCourse.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.TutorMenu.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.TutorPreferences.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.Update_Course.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.Update_User_Info.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.viewShL.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.viewShSec.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.viewShStu.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.viewShT.resources
+C:\Users\orel\Desktop\New folder (4)\Schedule\Schedule\obj\Debug\Schedule.csproj.GenerateResource.Cache
+C:\Users\orel\Desktop\Schedule\Schedule\bin\Debug\Schedule.exe.config
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.exe
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.pdb
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.csprojResolveAssemblyReference.cache
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.AcademicYear.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.addLacturer.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.addSecretary.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.AddSpecialDateExtraExam.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.addStudent.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.addTutor.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.AssignmentStudentToTest.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.ConfirmSpecialExam.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.DepartmentHeadMenu.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.DeterminingCourseDetails.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.DisplayAmountHoursLecturer.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.DisplayAmountHoursSecrt_Depar.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.DisplayAmountHoursTutors.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.DisplayCoursesBySemester.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.Display_Student_Grades.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.InsertStudentGrades.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.LecturerMenu.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.LecturerPreferences.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.Lecturers_Appeals.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.Login.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.ManagementCourses.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.OpenCourse.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.Properties.Resources.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.Readmess.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.RequestExtraTest.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.Requests_Check.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.Requests_Lecturers2.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.Requests_Students.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.Requests_Tutors.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.Schedule_Changes___Student.Changes_Available.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.Schedule_Changes___Student.Student_Requests.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.Schedule_Changes___Tutor.Add_Excercise.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.Schedule_Changes___Tutor.Cancell_Excercise.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.Schedule_Changes___Tutor.Tutor_Requests.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.ChangeCourseDetails.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.ScheduleChanges_Secretary.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.SecretaryMenu.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.SemesterMinimalAverage.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.SetDateForTest.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.StudentAverage.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.StudentMenu.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.StudentsList_L_T.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.Students_List_S_DM.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.studentToCourse.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.TutorMenu.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.TutorPreferences.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.Update_Course.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.Update_User_Info.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.viewShL.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.viewShSec.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.viewShStu.resources
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.viewShT.resources
+C:\Users\rodri\Source\Workspaces\Project 9\Schedule\Schedule\bin\Debug\Schedule.exe.config
+C:\Users\rodri\Source\Workspaces\Project 9\Schedule\Schedule\obj\Debug\Schedule.exe
+C:\Users\rodri\Source\Workspaces\Project 9\Schedule\Schedule\obj\Debug\Schedule.pdb
+C:\Users\orel\Desktop\Schedule\Schedule\obj\Debug\Schedule.csproj.GenerateResource.Cache
+C:\Users\orel\Desktop\Schedule\Schedule\bin\Debug\Database.mdf
+C:\Users\orel\Desktop\Schedule\Schedule\bin\Debug\Database_log.ldf
+C:\Users\orel\Desktop\Schedule\Schedule\bin\Debug\Schedule.exe
+C:\Users\orel\Desktop\Schedule\Schedule\bin\Debug\Schedule.pdb
+C:\Users\orel\Desktop\Schedule\Schedule\bin\Debug\System.Net.Http.dll
+C:\Users\orel\Desktop\Schedule\Schedule\bin\Debug\System.Net.Http.xml
